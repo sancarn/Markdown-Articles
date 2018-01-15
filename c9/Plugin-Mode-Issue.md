@@ -28,4 +28,5 @@ When running the plugin in the IDE, if I swap to a file "myFile.abap2", the synt
 So here I am a bit clueless as to why this isn't working... Has anyone managed to get custom modes to work in C9? Or are there any existing templates?
 
 Thanks,
+
 ~Sancarn
